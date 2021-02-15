@@ -1,5 +1,7 @@
 # chapter-4-excercises
+
 Exercise 1 - SSN
+
 #include <stdio.h>
 
 int main (){
