@@ -1,6 +1,6 @@
 # chapter-4-excercises
 
-Exercise 1 - SSN
+Exercise 1 - MyData
 
 #include <stdio.h>
 
@@ -10,6 +10,8 @@ printf("My name is Steffan Obed Canul Berzunza, my SSN is 15975385245 and I was 
 
 
 }
+
+Exercise 2 - E
 
 #include <stdio.h>
 
