@@ -15,7 +15,7 @@ printf("My name is Steffan Obed Canul Berzunza, my SSN is 15975385245 and I was 
 
 int main (){
 
-printf("******\n*\n*\n*\n******\n*\n*\n*\n******");
+printf("****** \n* \n* \n* \n****** \n* \n* \n* \n******");
 
 return 0;
 
